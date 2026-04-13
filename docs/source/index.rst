@@ -9,8 +9,10 @@ Welcome to SCIGMA's documentation!
 
    install
    Tutorial 1 Spatial ATAC-RNA-seq
+   SCIGMA-Spots
    SCIGMA-10x-Xenium-Prime-Ovary
    SCIGMA-Spatial-Mux-Seq
+   SCIGMA-Metabolomics
 
 .. image:: ../images/SCIGMA_Workflow.png
    :width: 1600 
